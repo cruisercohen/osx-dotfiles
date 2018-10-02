@@ -1,0 +1,39 @@
+Copy .profile etc from OSX Settings
+
+Install Applications:
+    chrome
+    firefox
+    vscode
+    xcode
+    xcode command line tools
+    brew
+    git (brew) (copy settings files)
+    nvm
+    node (nvm)
+    hyper (copy settings files)
+    docker
+    sourcetree
+    Beyond Compare
+    mongodb (brew)
+    office
+
+git stuff:
+    https://gist.github.com/trey/2722934
+    ssh-keygen
+    setup with github, bitbucket, etc.
+
+vscode plugins:
+    
+
+bash plugins:
+    bash-completion  brew install bash-completion  (brew, bash plugin)
+    bash-git-prompt   brew install bash-git-prompt   (brew, bash plugin)
+
+Dev frameworks and tools:
+    yo
+    angular-fullstack
+    angular
+    express
+    react
+    mean.io
+
