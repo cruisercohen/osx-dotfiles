@@ -16,6 +16,12 @@ Install Applications:
     Beyond Compare
     mongodb (brew)
     office
+    onedrive
+    hyperdock
+    yoink
+    commander one
+
+
 
 git stuff:
     https://gist.github.com/trey/2722934
