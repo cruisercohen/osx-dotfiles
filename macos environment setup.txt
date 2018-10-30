@@ -4,7 +4,6 @@ Install Applications:
     chrome
     firefox
     vscode
-    xcode
     xcode command line tools
     brew
     git (brew) (copy settings files)
@@ -25,16 +24,18 @@ Install Applications:
 
 
 git stuff:
-    https://gist.github.com/trey/2722934
+    brew install git
     ssh-keygen
     setup with github, bitbucket, etc.
+    long version: https://gist.github.com/trey/2722934
 
-vscode plugins:
-    
 
 bash plugins:
     bash-completion  brew install bash-completion  (brew, bash plugin)
     bash-git-prompt   brew install bash-git-prompt   (brew, bash plugin)
+
+vscode plugins:
+    
 
 Dev frameworks and tools:
     yo
