@@ -15,6 +15,7 @@ Install Applications:
     sourcetree
     Beyond Compare
     mongodb (brew)
+    paw
     office
     onedrive
     hyperdock
